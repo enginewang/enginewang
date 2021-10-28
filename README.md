@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![enginewang's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=enginewang&show_icons=true&count_private=true&theme=gotham)
+[![enginewang's GitHub stats](https://github-readme-stats.vercel.app/api?username=enginewang&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
