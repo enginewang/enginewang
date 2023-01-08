@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 [![enginewang's GitHub stats](https://github-readme-stats.vercel.app/api?username=enginewang&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-[![enginewang's GitHub stats](https://github-readme-stats.vercel.app/api?username=enginewang)](https://github.com/anuraghazra/github-readme-stats)
+[![enginewang's GitHub stats](https://github-readme-stats.vercel.app/api?username=enginewang)](https://github.com/enginewang)
